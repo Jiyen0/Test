@@ -1,1 +1,5 @@
 # Test
+
+Note: The git package in Chocolatey is not maintained by the Git for Windows project and might deviate from the latest official version.
+
+The current source code release is version 2.56.1. If you want the newer version, you can build it from the source code.
